@@ -28,8 +28,8 @@ Installation Instructions:
     - Edit the conf file to add `server=1`, `rpcuser=user`, and `rpcpass=pass` (with your own username and password).
     - Start the daemon.
     - Edit the `settings.json` file's `coin` object to have:
-        - `user` set to the username you set in the your .conf file ("user").
-        - `pass` set to the password you set in the your .conf file ("pass").
+        - `user` set to the username you set in your .conf file ("user").
+        - `pass` set to the password you set in your .conf file ("pass").
 
 - Install MySQL
     - Create a Database
