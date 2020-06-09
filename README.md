@@ -21,7 +21,7 @@ If you have previously installed any of the above modules of a lower version, th
 
 ### Installing
 
-To download this repository directly to your server, you can run the ```sudo wget https://raw.githubusercontent.com/Izak-cmd/Bitcoin-Bot-Creator/CreateBot.sh``` and execute it using ```sudo bash CreateBot.sh```.
+To download this repository directly to your server, you can run the ```sudo wget https://raw.githubusercontent.com/Izak-cmd/Bitcoin-Bot-Creator/master/CreateBot.sh``` and execute it using ```sudo bash CreateBot.sh```.
 
 Installation Instructions:
 - Install Bitcore, transactions will not be confirmed by the bot while it is unsynced.
